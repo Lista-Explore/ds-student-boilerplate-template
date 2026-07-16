@@ -1,7 +1,5 @@
 # Maji Ndogo Analytics Portfolio 
 
-![Portfolio Checks](https://github.com/<your-username>/maji-ndogo-analytics/actions/workflows/portfolio-checks.yml/badge.svg) 
-
 This repository documents the end-to-end analytical engineering and data science engagement for the Maji Ndogo Ministry of Agriculture and Water. It serves as a professional record of technical decisions, automated enforcement, and stakeholder deliverables. 
 
 ## Project Dashboard 
